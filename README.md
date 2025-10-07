@@ -8,14 +8,14 @@ I build web applications and enhance digital experiences.
 
 ## Tech I use
 
-**Frontend:** React, Vite, Tailwind
-**Backend:** Node.js, Express
+**Frontend:** React, Vite, Tailwind  
+**Backend:** Node.js, Express  
 **DB:** MongoDB/Postgres  
 **Tooling:** GitHub Actions, Vitest, ESLint, Prettier, Heroku/Vercel
 
 ## About me
 
-• 3rd year Computing and Software Systems student at The University of Melbourne
-• Building web applications here and there
-• Gym almost every day 🏋️
-• Gamer 🎮
+• 3rd year Computing and Software Systems student at The University of Melbourne  
+• Building web applications here and there  
+• Gym almost every day 🏋️  
+• Video game enthusiast 🎮
