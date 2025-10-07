@@ -2,8 +2,8 @@
 
 I build web applications and enhance digital experiences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/quytrongductran/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://duc-tran-d671c541cbc3.herokuapp.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/quytrongductran/)
 [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:trongducnbk43@gmail.com)
 
 ## Tech I use
