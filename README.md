@@ -1,4 +1,4 @@
-# Hi, I'm Duccu
+# Hi, I'm Michael
 
 I build web applications and enhance digital experiences.
 
