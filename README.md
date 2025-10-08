@@ -6,6 +6,13 @@ I build web applications and enhance digital experiences.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/quytrongductran/)
 [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:trongducnbk43@gmail.com)
 
+## About me
+
+• 3rd year Computing and Software Systems student at The University of Melbourne  
+• Building web applications here and there  
+• Gym almost every day 🏋️  
+• Video game enthusiast 🎮
+
 ## Tech I use
 
 **Frontend:** React, Vite, Tailwind  
@@ -13,9 +20,4 @@ I build web applications and enhance digital experiences.
 **DB:** MongoDB/Postgres  
 **Tooling:** GitHub Actions, Vitest, ESLint, Prettier, Heroku/Vercel
 
-## About me
 
-• 3rd year Computing and Software Systems student at The University of Melbourne  
-• Building web applications here and there  
-• Gym almost every day 🏋️  
-• Video game enthusiast 🎮
